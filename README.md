@@ -1,5 +1,7 @@
 # 卢浮宫玻璃金字塔 · 卡通三维场景
 
+**在线直接玩**：https://nyan936.github.io/louvre-pyramid-cartoon/  ·  **仓库**：https://github.com/nyan936/louvre-pyramid-cartoon
+
 贝聿铭（I.M. Pei）最经典的代表作 —— 巴黎卢浮宫拿破仑庭院（Cour Napoléon）的玻璃金字塔，
 做成 3D 精致的卡通风网页场景：**单文件 HTML，双击即开，零外部请求，打开就在动，还能调**。
 
