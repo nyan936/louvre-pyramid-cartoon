@@ -1,0 +1,6 @@
+# 构建与发信中间产物
+out/
+dist/.app-*.js
+dist/*.html.tmp
+.chrome-profile/
+*.zip
